@@ -23,6 +23,9 @@ This project performs a high-fidelity orbital analysis of the **NavIC (IRNSS)** 
 
 ### Repository Structure
  `main.py`: Core engine for GDOP calculation and real-time tracking.
+ 
  `coverage_chart.py`: Script to simulate and visualize 24-hour satellite availability.
+ 
  `coverage_chart.png`: Generated proof of 100% system uptime.
+ 
  `requirements.txt`: Environment dependencies.
