@@ -9,7 +9,7 @@ This project performs a high-fidelity orbital analysis of the **NavIC (IRNSS)** 
 | :--- | :--- | :--- |
 | **Average GDOP** | **3.31** | < 6.0 (Excellent) |
 | **Peak Precision (Min GDOP)** | **2.46** | Survey-Grade Quality |
-| **Satellite Availability** | **8–9** | 100% Redundancy (Min. 4 Req.) |
+| **Satellite Availability** | **8–9** | 100% Redundancy (Min. 4 required) |
 | **Constellation Uptime** | **100%** | Zero "Outage" Windows |
 
 ### Key Insights
